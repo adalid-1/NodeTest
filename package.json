@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "NodeTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adalid-1/NodeTest.git"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adalid-1/NodeTest/issues"
+  },
+  "homepage": "https://github.com/adalid-1/NodeTest#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
